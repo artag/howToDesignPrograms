@@ -1,2 +1,11 @@
-# howToDesignPrograms
-Notes. Book "How to Design Programs. An Introduction to Programming and Computing".
+# Как проектировать программы. Введение в программирование и компьютерные вычисления
+
+* Вступление [ch00.md](/doc/ch00.md)
+* Пролог: как писать программы [ch00.md](/doc/ch00.md)
+  * Арифметика, арифметика...
+  * Компиляция программы "Hello world"
+    * Уменьшение размера `exe` файла
+      * 1. Switch to racket/base
+      * 2. Use the Demodularizer (raco demod)
+      * 3. Externalize Shared Libraries (не пробовал)
+      * 4. Post-Compilation Compression (UPX) (не пробовал)
