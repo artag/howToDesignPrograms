@@ -13,3 +13,9 @@
       * 2. Use the Demodularizer (raco demod)
       * 3. Externalize Shared Libraries (не пробовал)
       * 4. Post-Compilation Compression (UPX) (не пробовал)
+* Данные фиксированного размера [ch01.md](/doc/ch01.md)
+  * 1. Арифметика
+    * 1.1. Арифметика чисел
+    * 1.2. Арифметика строк
+    * 1.3. А теперь все смешаем
+    * 1.4. Арифметика изображений
