@@ -9,7 +9,7 @@
 ; Проверить, выводит ли программа ожидаемое письмо в заданный файл.
 
 (require 2htdp/batch-io)   ;  write-file - выводит строку в консоль
-2
+
 ; Главная функция
 (define (letter fst lst signature-name)
   (string-append
